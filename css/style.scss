@@ -55,7 +55,7 @@ img {
         text-align: center;
         color: var(--light);
     }
-    background:url('/img/mount-rundle.jpg') no-repeat;
+    background:url('./img/mount-rundle.jpg') no-repeat;
     background-size: cover;
     height: 45rem;
 }
@@ -82,7 +82,7 @@ main {
         }
     }
     #scrolling-divider {
-        background-image: url('/img/trees.jpg');
+        background-image: url('./img/trees.jpg');
         min-height: 10rem;
         background-attachment: fixed;
         background-position: center;
