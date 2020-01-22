@@ -1,3 +1,5 @@
-A Static Website using information from Wikipedia
+[Mount Rundle Wiki](https://www.projects2.colingillespie.xyz/)
 
-Created with HTML and CSS/Sass
+A Static Website using information from Wikipedia.
+
+Created with HTML and CSS/Sass.
