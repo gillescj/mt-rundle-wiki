@@ -1,4 +1,4 @@
-[Mount Rundle Wiki](https://www.projects2.colingillespie.xyz/mt-rundle-wiki/)
+# Mount Rundle Wiki
 
 A Static Website using information from Wikipedia.
 
